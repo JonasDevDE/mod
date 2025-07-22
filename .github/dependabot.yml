@@ -9,6 +9,6 @@ updates:
     directory: "/" # Location of package manifests XY
     target-branch: "develop"
     schedule:
-      timezone: "Europe/Berlin"
+      timezone: "Europe/Dublin"
       time: "07:00"
       interval: "daily"
